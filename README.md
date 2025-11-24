@@ -47,9 +47,8 @@ ex) GET http://localhost:8080/api/v1/items
 [REQ] POST /api/v1/items
 
 ## Postman Test Results
-
-![postman1](https://github.com/user-attachments/assets/ee0e9697-a4e0-45ad-b1fc-a5250c46d447)
-![postman2](https://github.com/user-attachments/assets/8c43eae0-073d-4203-ab3f-81bd0cebf8e3)
+![postman1](https://github.com/user-attachments/assets/8c43eae0-073d-4203-ab3f-81bd0cebf8e3)
+![postman2](https://github.com/user-attachments/assets/ee0e9697-a4e0-45ad-b1fc-a5250c46d447)
 ![postman3](https://github.com/user-attachments/assets/418cb7bc-db78-45f9-8274-9b0f462acdbc)
 ![postman4](https://github.com/user-attachments/assets/85b730c8-a420-47e8-99e4-8be043de4e7a)
 ![postman5](https://github.com/user-attachments/assets/05dcf66b-26ae-4750-8048-c224312d09c3)
