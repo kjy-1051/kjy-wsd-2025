@@ -47,10 +47,11 @@ ex) GET http://localhost:8080/api/v1/items
 [REQ] POST /api/v1/items
 
 ## Postman Test Results
-![postman1](https://github.com/user-attachments/assets/8c43eae0-073d-4203-ab3f-81bd0cebf8e3)
-![postman2](https://github.com/user-attachments/assets/ee0e9697-a4e0-45ad-b1fc-a5250c46d447)
-![postman3](https://github.com/user-attachments/assets/418cb7bc-db78-45f9-8274-9b0f462acdbc)
-![postman4](https://github.com/user-attachments/assets/85b730c8-a420-47e8-99e4-8be043de4e7a)
-![postman5](https://github.com/user-attachments/assets/05dcf66b-26ae-4750-8048-c224312d09c3)
-![postman6](https://github.com/user-attachments/assets/abc1f1f6-384a-4e66-b017-b6550ad4ea45)
-![postman7](https://github.com/user-attachments/assets/df812288-fe9b-437d-a7e6-3a4b41f93ae9)
+![postman1](https://github.com/user-attachments/assets/c8843141-da98-4b69-a6c2-7dd2685def3f)
+![postman2](https://github.com/user-attachments/assets/8633136e-3757-43c3-bd3d-5d5067c6240c)
+![postman3](https://github.com/user-attachments/assets/41ec7b77-e715-406f-9541-c541f21e770a)
+![postman4](https://github.com/user-attachments/assets/a7acc056-b7c1-4749-8d29-5eea170820d4)
+![postman5](https://github.com/user-attachments/assets/7d00b6f1-b287-465e-8f5d-4fa7bdfe259a)
+![postman6](https://github.com/user-attachments/assets/0a0994df-bc83-4ad9-a29e-51c8cefecb87)
+![postman7](https://github.com/user-attachments/assets/b3b967e8-0f06-4681-ac2a-e108a58f42e2)
+![postman8](https://github.com/user-attachments/assets/e8cc62b8-f347-4e66-9ecc-dce51a8ad1f8)
